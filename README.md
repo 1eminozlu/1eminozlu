@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/eminozlu"><img src="https://img.shields.io/badge/GitHub-@eminozlu-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/eminozlu/"><img src="https://img.shields.io/badge/LinkedIn-@eminozlu-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:iletisim@eminozlu.com.tr"><img src="https://img.shields.io/badge/E-posta-iletisim@eminozlu.com.tr-D14836?style=for-the-badge&logo=gmail" alt="E-posta"></a>
 </p>
 
 ---
