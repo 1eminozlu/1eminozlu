@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba, ben **Muhammet Emin ÖZLÜ** 👋</h1>
 <p align="center">
-  <a href="https://github.com/eminozlu"><img src="https://img.shields.io/badge/GitHub-@eminozlu-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/1eminozlu"><img src="https://img.shields.io/badge/GitHub-@1eminozlu-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/eminozlu/"><img src="https://img.shields.io/badge/LinkedIn-@eminozlu-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
